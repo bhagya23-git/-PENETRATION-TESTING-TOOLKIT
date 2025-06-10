@@ -42,4 +42,4 @@ This project taught me how ethical hackers and penetration testers approach vuln
 
 #Output:
 
-![Image](https://github.com/user-attachments/assets/77d45886-3301-4330-95de-239e872bba83)
+![Image](https://github.com/user-attachments/assets/77d45886-3301-4330-95de-239e872bba83)      ![Image](https://github.com/user-attachments/assets/679464f0-e0f0-4504-90ce-a68294bcb96e)
